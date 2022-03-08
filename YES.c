@@ -3,5 +3,6 @@
 int main()
 {
     printf("Hellow!");
+    printf("Test");
     system("pause");
 }
