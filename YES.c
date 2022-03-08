@@ -1,3 +1,7 @@
-#incldue "stdio.h"
-
-printf("HELOOWgit");
+#include "stdio.h"
+#include "windows.h"
+int main()
+{
+    printf("Hellow!");
+    system("pause");
+}
